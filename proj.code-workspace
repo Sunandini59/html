@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "janu",
+			"path": "../../janu"
+		},
+		{
+			"name": "HTML prgms",
+			"path": "../HTML prgms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML prgms"
+	}
+}
